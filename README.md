@@ -3,8 +3,9 @@ A Jupyter Notebook that demonstrates NCEI's CoMET API
 - Pull this repo
 - install jupyter lab with ```pip install jupyterlab```
 - from shell run jupter with command ```jupyter-lab```
-- Open the directory for this report
-- start with < START HERE >
+
+Or you can run a live interactive session here; your changes will not be saved between sessions. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerrilynnreeves/CoMET-Jupyter-Notebook.git/HEAD)
 
 Notes:
 - You must have a CoMET User account and be assigned a record group to use these APIs.
