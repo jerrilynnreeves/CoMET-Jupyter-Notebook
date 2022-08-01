@@ -1,7 +1,7 @@
 # CoMET Jupyter Notebook
 A Jupyter Notebook that demonstrates NCEI's CoMET API
 - Pull this repo
-- install jupyter lab with ```pip install pip install jupyterlab```
+- install jupyter lab with ```pip install jupyterlab```
 - from shell run jupter with command ```jupyter-la```
 - Open the directory for this repor
 - start with < START HERE >
