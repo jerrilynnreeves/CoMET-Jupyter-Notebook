@@ -5,5 +5,3 @@
 #    pip-compile
 #
 pandas
-requests
-json
