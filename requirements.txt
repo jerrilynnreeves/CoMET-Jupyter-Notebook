@@ -5,3 +5,8 @@
 #    pip-compile
 #
 pandas
+requests
+json
+getpass
+json
+urllib
